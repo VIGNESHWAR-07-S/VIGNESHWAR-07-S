@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Vignesh 👋<br><br>I'm an AI & Data Science student passionate about programming, problem solving, and emerging technologies.<br><br>- Java | SQL | DSA<br>- Exploring Cloud Computing<br>- Interested in AI & Machine Learning<br>- Practicing regularly on LeetCode<br>- Building projects and improving my development skills<br><br>Always learning, building, and getting better.
+Hi! I'm Vigneshwar 👋<br><br>I'm an AI & Data Science student passionate about programming, problem solving, and emerging technologies.<br><br>- Java | SQL | DSA<br>- Exploring Cloud Computing<br>- Interested in AI & Machine Learning<br>- Practicing regularly on LeetCode<br>- Building projects and improving my development skills<br><br>Always learning, building, and getting better.
 
 
 ## 🌐 Socials:
